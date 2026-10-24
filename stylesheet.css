@@ -32,8 +32,10 @@ h3{
 
 }
 .soft-hard img{
-    max-width: 250px;
+    max-width: 300px;
+    width: 100%;
     height: auto;
+
     
 }
 
@@ -53,9 +55,11 @@ h3{
     text-align: center;
 }
 
-.bottom{
-   
-    justify-content: end;
+.bottom img{
+ 
+    max-width: 100%;
+    height: auto;
+
 }
 
 
