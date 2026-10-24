@@ -1,0 +1,173 @@
+body{
+    background-color: rgb(184, 202, 169);
+}
+
+h1{
+    color: darkolivegreen;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    
+}
+h2{
+    color: darkolivegreen;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+h3{
+    color: darkolivegreen;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+
+
+.soft-hard{
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    width: 100%;
+    
+
+}
+.soft-hard img{
+    max-width: 250px;
+    height: auto;
+    
+}
+
+
+    .images-slot{
+    
+    justify-content: space-between;
+    align-items: center;
+    gap: 30px;
+}
+
+
+.subtitle-cats{
+    color: darkolivegreen;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    text-align: center;
+}
+
+.bottom{
+   
+    justify-content: end;
+}
+
+
+.textbox{
+    color: darkolivegreen;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: xx-large;
+    text-align: center;
+    
+}
+
+.passions {
+    color: rgb(26, 60, 110);
+    background-image:url(sky.jpg);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: xx-large;
+    text-align: center;
+}
+.table-books{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 10px;
+    max-width:1500px;
+    margin: 0 auto;
+    
+
+
+}
+
+.table-books img{
+    height: 250px;
+
+    width: 60%;
+    object-fit: cover;
+    margin: 0 auto;
+
+    
+
+}
+
+
+.body-contacts{
+    background-image: url(foca.png);
+
+
+    
+}
+.contacts{
+    margin: 60px;
+    max-width: 60;
+    display: flex;
+    gap: 60px;
+}
+.column-contacts{
+    margin: 60px;
+    flex-direction: column;
+    max-width: 60px;
+    display: flex;
+    gap: 60px;
+
+}
+.bin{
+    
+    margin-left: 1200px;
+    
+
+}
+
+.table-gallery{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+    max-width:1500px;
+    margin: 0 auto;
+
+}
+
+
+.table-gallery img{
+    height: 250px;
+    width: 100%;
+    object-fit: cover;
+    
+    
+
+}
+
+.hardware{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: darkolivegreen;
+}
+.hardwarep1{
+    background-color: darkseagreen;
+}
+.bottombigio{
+    font-family: Arial, Helvetica, sans-serif;
+    color: darkolivegreen;
+    position: relative;
+    min-height: 500px;
+}
+
+
+.software{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: darkolivegreen;
+}
+.softwarep1{
+    background-color: darkseagreen;
+}
+.bottomroyce{
+    font-family: Arial, Helvetica, sans-serif;
+    color: darkolivegreen;
+    position: relative;
+    min-height: 500px;
+}
