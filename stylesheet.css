@@ -40,7 +40,7 @@ h3{
 }
 
 
-    .images-slot{
+.images-slot{
     
     justify-content: space-between;
     align-items: center;
@@ -59,6 +59,7 @@ h3{
  
     max-width: 100%;
     height: auto;
+    object-fit: cover;
 
 }
 
@@ -103,6 +104,8 @@ h3{
 
 .body-contacts{
     background-image: url(foca.png);
+    background-size: cover;
+    background-image: no-repeat;
 
 
     
