@@ -74,7 +74,7 @@ h3{
 
 .passions {
     color: rgb(26, 60, 110);
-    background-image:url(sky.jpg);
+    background-image:url(im/sky.jpg);
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: xx-large;
     text-align: center;
@@ -103,7 +103,7 @@ h3{
 
 
 .body-contacts{
-    background-image: url(foca.png);
+    background-image: url(im/foca.png);
     background-size: cover;
     background-image: no-repeat;
 
