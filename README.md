@@ -1,11 +1,13 @@
-This website is about me.
-main aspect:
--responsive design
--static
-git hub pages link: https://blu3frog.github.io/my-personal-site/index.html
+BLU3 personal website.
+a personal website for my projects, galleries for books and my art and a contacts section.
 
-In the future:
--I'll organize the files in a better way
--I'll create a user interface for uploading images
 
-thakss 
+
+![preview](im/preview.mp4)
+
+_try the project_: https://blu3frog.github.io/my-personal-site/index.html
+
+feature:
+-responsive
+
+
