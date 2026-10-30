@@ -17,7 +17,7 @@ _try the project_: https://blu3frog.github.io/my-personal-site/index.html <br>
 features:<br>
 -responsive<br>
 -nav bar<br>
--photo<br>
+-photos<br>
 
 This was my first website.
 
